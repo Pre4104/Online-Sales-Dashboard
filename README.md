@@ -40,3 +40,8 @@ A small data analysis + dashboard project built on the [Online Sales Data datase
 ## License
 
 MIT
+
+##  Author
+
+**B S Lakshmi Prerana**  
+BTech AI & ML, UVCE Bengaluru (2024–2028)  
