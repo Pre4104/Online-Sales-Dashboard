@@ -1,0 +1,5 @@
+kagglehub
+dash
+plotly
+pandas
+google-genai
